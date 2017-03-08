@@ -1,0 +1,282 @@
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\csc.exe
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\vbc.exe
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\VBCSCompiler.exe
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\WebOwnersAndPets.dll.config
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\WebOwnersAndPets.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\WebOwnersAndPets.pdb
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Antlr3.Runtime.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Domain.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\EntityFramework.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\EntityFramework.SqlServer.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.Web.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Newtonsoft.Json.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Owin.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\SQLite.CodeFirst.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Net.Http.Formatting.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Helpers.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Http.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Http.WebHost.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Mvc.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Optimization.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Razor.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.Razor.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\WebGrease.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Domain.pdb
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.Web.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Helpers.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Mvc.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Optimization.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Razor.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.Razor.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Antlr3.Runtime.pdb
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Newtonsoft.Json.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Net.Http.Formatting.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Http.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Http.WebHost.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\EntityFramework.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\EntityFramework.SqlServer.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\obj\Debug\WebOwnersAndPets.csprojResolveAssemblyReference.cache
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\obj\Debug\WebOwnersAndPets.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\obj\Debug\WebOwnersAndPets.pdb
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Data.SQLite.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Data.SQLite.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Data.SQLite.EF6.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\WebOwnersAndPets\bin\System.Data.SQLite.Linq.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\csc.exe
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\System.Collections.Immutable.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\vbc.exe
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\VBCSCompiler.exe
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\roslyn\VBCSCompiler.exe.config
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\WebOwnersAndPets.dll.config
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\WebOwnersAndPets.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\WebOwnersAndPets.pdb
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Antlr3.Runtime.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Domain.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\EntityFramework.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\EntityFramework.SqlServer.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.DependencyCollector.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.Web.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.WindowsServer.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.ApplicationInsights.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Google.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Web.Infrastructure.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Newtonsoft.Json.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Owin.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\SQLite.CodeFirst.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Data.SQLite.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Data.SQLite.EF6.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Data.SQLite.Linq.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Net.Http.Formatting.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Helpers.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Http.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Http.WebHost.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Mvc.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Optimization.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Razor.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.Deployment.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.Razor.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\WebGrease.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Domain.pdb
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.DependencyCollector.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.Web.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AI.WindowsServer.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.ApplicationInsights.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Data.SQLite.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Helpers.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Mvc.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Optimization.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Razor.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.Deployment.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.WebPages.Razor.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Antlr3.Runtime.pdb
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Newtonsoft.Json.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Net.Http.Formatting.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Http.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\System.Web.Http.WebHost.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\EntityFramework.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\EntityFramework.SqlServer.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Google.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\obj\Debug\WebOwnersAndPets.csprojResolveAssemblyReference.cache
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\obj\Debug\WebOwnersAndPets.dll
+E:\ProjectsVS\WebOwnersAndPets\WebOwnersAndPets\obj\Debug\WebOwnersAndPets.pdb
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\csc.exe
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\System.Collections.Immutable.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\System.Reflection.Metadata.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\vbc.exe
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\VBCSCompiler.exe
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\roslyn\VBCSCompiler.exe.config
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\WebOwnersAndPets.dll.config
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\WebOwnersAndPets.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\WebOwnersAndPets.pdb
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Antlr3.Runtime.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Domain.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\EntityFramework.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\EntityFramework.SqlServer.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AI.DependencyCollector.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AI.Web.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AI.WindowsServer.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.ApplicationInsights.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.Google.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Web.Infrastructure.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Newtonsoft.Json.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Owin.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\SQLite.CodeFirst.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Data.SQLite.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Data.SQLite.EF6.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Data.SQLite.Linq.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Net.Http.Formatting.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Helpers.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Http.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Http.WebHost.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Mvc.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Optimization.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Razor.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.WebPages.Deployment.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.WebPages.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.WebPages.Razor.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\WebGrease.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Domain.pdb
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AI.DependencyCollector.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AI.Web.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AI.WindowsServer.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.ApplicationInsights.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Data.SQLite.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Helpers.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Mvc.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Optimization.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Razor.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.WebPages.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.WebPages.Deployment.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.WebPages.Razor.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Antlr3.Runtime.pdb
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Newtonsoft.Json.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Net.Http.Formatting.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Http.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\System.Web.Http.WebHost.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\EntityFramework.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\EntityFramework.SqlServer.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.Google.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\obj\Debug\WebOwnersAndPets.csprojResolveAssemblyReference.cache
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\obj\Debug\WebOwnersAndPets.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\WebOwnersAndPets\obj\Debug\WebOwnersAndPets.pdb

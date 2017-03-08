@@ -1,0 +1,42 @@
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\Domain.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\Domain.pdb
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\obj\Debug\Domain.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\obj\Debug\Domain.pdb
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\Domain.dll.config
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\Domain.dll.config
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\Domain.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\Domain.pdb
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.EF6.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.Linq.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.xml
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.xml
+E:\ProjectsVS\WebOwnersAndPets\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\ProjectsVS\WebOwnersAndPets\Domain\obj\Debug\Domain.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\obj\Debug\Domain.pdb
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\Domain.dll.config
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\Domain.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\Domain.pdb
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\EntityFramework.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\System.Data.SQLite.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\EntityFramework.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\bin\Debug\System.Data.SQLite.xml
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\obj\Debug\Domain.dll
+E:\Repository\WebApi + Angular + SQLite(ADO.Net) (WebOwnersAndPets)\Domain\obj\Debug\Domain.pdb

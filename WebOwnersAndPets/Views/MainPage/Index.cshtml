@@ -1,0 +1,74 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html ng-app="ownerApp">
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+    <title>Owner</title>
+</head>
+<body>
+    <div ng-controller="ownerController" class="container">
+
+        <h1 class="text-center">All Users</h1>
+
+        <form name="ownerForm">
+            <div class="form-inline text-center">
+                <div class="form-group">
+                    <input class="form-control" ng-model="name" required placeholder="Enter Pet Owner's Name" />
+                    <div class="col-md-8">
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-8">
+                        <button class="btn btn-default" ng-click="addOwner(name,ownerForm)">Add</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        <h5>Total count: {{ownersCount}} </h5>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Pets Count</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr dir-paginate="item in owners | orderBy: 'Name' | itemsPerPage: pageSize">
+                    <td><a ng-href="http://localhost:11319/MainPage/Pets/#!#{{item.Id}}">{{item.Name}}</a></td>
+                    <td>{{item.PetCount}}</td>
+                    <td>
+                        <button id="{{item.Id}}" class="btn btn-default" data-ng-click="deleteOwner($event)">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="text-center">
+            <dir-pagination-controls
+                                     direction-links="true"
+                                     boundary-links="true">
+            </dir-pagination-controls>
+        </div>
+
+
+    </div>
+
+
+            <script src="~/Scripts/angular.min.js"></script>
+            <script src="~/Scripts/AppJs/dirPagination.js"></script>
+            <script src="~/Scripts/AppJs/ownerApp.js"></script>
+            <script src="~/Scripts/AppJs/filter.js"></script>
+            <script src="~/Scripts/AppJs/controllers/ownerController.js"></script>
+
+</body>
+</html>
